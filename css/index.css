@@ -16,19 +16,15 @@ body{
 }
 
 a {
-<<<<<<< HEAD
 	color: #000;
 }
 
 a:hover{
 	color: #fff;
-=======
-	color: #999999;
 }
 
 a:hover{
 	color: #dddddd;
->>>>>>> master
 }
 
 #intro_container, #outro_container{
@@ -87,15 +83,6 @@ iframe[embedded]{
 	text-align:center; font-weight:bold; font-size:25px
 }
 
-/**
-span[cartoon]{
-	border-bottom:1px dashed black;
-}
-span[cartoon]:hover{
-	color:#aaa;
-	border-color: #aaa;
-}
-**/
 
 #cartoon_container{
 	display: none;
